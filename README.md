@@ -23,3 +23,23 @@ Menu Items
 Pizza          10.00/-
 Burger         20.00/-
 
+
+
+
+Zakeer (Order)
+    - Pizza     x2  (Item)
+    - Burger    x1  (Item)
+
+
+Harish (Order)
+    - Burger    x5  (Item)
+
+Tazeem (Order)
+    - Fries    x2  (Item)
+
+Zakeer (Order)
+    - Fries    x2  (Item)
+
+
+   
+
