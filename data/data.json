@@ -1,0 +1,51 @@
+{
+    "menu": [
+        {
+            "name": "Veg Burger",
+            "description": "Grilled veggie",
+            "category": "Main Course",
+            "price": 120,
+            "isAvailable": true
+        },
+        {
+            "name": "Fries",
+            "description": "Crispy Fries",
+            "category": "Starter",
+            "price": 80,
+            "isAvailable": false
+        }
+    ],
+    "orders": [
+        {
+            "table": 5,
+            "date": "15/05/2025:11:45AM",
+            "status": "Completed",
+            "items": [
+                {
+                    "name": "Veg Burger",
+                    "quantity": 2,
+                    "price": 120
+                },
+                {
+                    "name": "Fries",
+                    "quantity": 3,
+                    "price": 80
+                }
+            ],
+            "total": 480
+        },
+        {
+            "table": 3,
+            "date": "15/05/2025:01:15PM",
+            "status": "Completed",
+            "items": [
+                {
+                    "name": "Veg Burger",
+                    "quantity": 3,
+                    "price": 120
+                }
+            ],
+            "total": 360
+        }
+    ]
+}
